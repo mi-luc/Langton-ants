@@ -541,7 +541,7 @@ void init()
 	getNeighbours();
 	restrainAnts();
 }
-//TO DO MAINE IN PAUZA:
+
 //FA AFISAREA PENTRU FURNICI PE HARTA >>>>
 //VEZI DE CE NU MERGE PT ANUMITE VALORI >>>
 
